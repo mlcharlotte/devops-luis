@@ -9,9 +9,6 @@ public void seleniumTEST () {
     WebDriver driver = new ChromeDriver();
       driver.get("https://www.backmarket.fr");
 
-
-
-
     driver.quit();
 
 
